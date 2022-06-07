@@ -1,7 +1,8 @@
-Hi 👋 My name is Arun Reddy
-===========================Web Developer-------------* 
-🌍  I'm based in Hyderabad, India* ✉️  You can contact me at [reddyarun59@yahoo.com](mailto:reddyarun59@yahoo.com)* 
-🧠  I'm learning Go, NextJS
+### Hi 👋 My name is Arun Reddy
+=Web Developer
+#### 🌍  I'm based in Hyderabad, India*
+#### ✉️  You can contact me at [reddyarun59@yahoo.com](mailto:reddyarun59@yahoo.com)* 
+#### 🧠  I'm learning Go, NextJS
 
 <a href="https://www.twitter.com/arunwtf" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/arunwtf?logo=twitter&style=for-the-badge&color=f97316&labelColor=27272a"/></a>
