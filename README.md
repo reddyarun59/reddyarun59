@@ -1,4 +1,4 @@
-### Hi 👋 My name is Arun Reddy
+### Hi 👋 I'm Arun Reddy
 ##### Web Developer
 #### 🌍  I'm based in Hyderabad, India
 #### ✉️  You can contact me at [reddyarun59@yahoo.com](mailto:reddyarun59@yahoo.com)
